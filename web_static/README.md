@@ -1,1 +1,1 @@
-This is a directory for my HTML and CSS
+This is for my HTML and CSS in the web static project.
